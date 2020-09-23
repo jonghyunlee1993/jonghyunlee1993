@@ -1,4 +1,4 @@
-### Data Analyst
+### Toward Data Scientist
 - Data Analyst at [Fitogether](https://www.fitogether.com/, "fitogether link")
 
 [![Jonghyun's github stats](https://github-readme-stats.vercel.app/api?username=jonghyunlee1993&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
