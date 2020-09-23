@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jonghyunlee1993)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jonghyunlee1993&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-  <div align=center>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jonghyunlee1993)](https://hits.seeyoufarm.com) 
-	
-  </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonghyunlee1993&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align=right>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jonghyunlee1993)](https://hits.seeyoufarm.com) 
+</div>
 
 <!--
 **jonghyunlee1993/jonghyunlee1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
