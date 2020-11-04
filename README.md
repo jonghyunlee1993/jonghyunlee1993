@@ -1,5 +1,5 @@
-### Toward Data Scientist
-- Data Analyst at [Fitogether](https://www.fitogether.com/, "fitogether link")
+### Toward Full Stack Data Scientist
+- Data Scientist at [Fitogether](https://www.fitogether.com/, "fitogether link")
 
   <div align=center>
   
