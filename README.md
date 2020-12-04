@@ -1,6 +1,7 @@
 ### Toward Full Stack Data Scientist
 - Data Scientist at [Fitogether](https://www.fitogether.com/, "fitogether link")
 
+```python
 def print_tree():
 	print("                  ")
 	print("           *      ")
@@ -21,3 +22,4 @@ def print_tree():
 
 if __name__ == '__main__':
 	print_tree()
+```
