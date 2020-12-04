@@ -1,25 +1,23 @@
 ### Toward Full Stack Data Scientist
 - Data Scientist at [Fitogether](https://www.fitogether.com/, "fitogether link")
 
-  <div align=center>
-  
-  [![Jonghyun's github stats](https://github-readme-stats.vercel.app/api?username=jonghyunlee1993&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jonghyunlee1993)](https://hits.seeyoufarm.com) 
-	
-  </div>
+def print_tree():
+	print("                  ")
+	print("           *      ")
+	print("          * *     ")
+	print("         *   *    ")
+	print("        *** ***   ")
+	print("         *   *    ")
+	print("        *     *   ")
+	print("       ***   ***  ")
+	print("      ***     *** ")
+	print("         *****    ")
+	print("         *****    ")
+	print("         *****    ")
+	print("                  ")
+	print("      MERRY       ")
+	print("       CHIRSTMAS!!")
+	print("                  ")
 
-<!--
-**jonghyunlee1993/jonghyunlee1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+if __name__ == '__main__':
+	print_tree()
