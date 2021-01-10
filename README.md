@@ -5,7 +5,7 @@
   <br>
   <img src="https://img.shields.io/badge/-PYTHON-lightgrey?logo=Python"/>&nbsp
   <img src="https://img.shields.io/badge/-R Project-lightgrey?logo=R"/>&nbsp
-  <img src="https://img.shields.io/badge/-c\#-lightgrey?logo=C\#"/>&nbsp
+  <img src="https://img.shields.io/badge/-C Sharp-lightgrey?logo=csharp"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-TensorFlow-lightgrey?logo=TensorFlow"/>&nbsp
   <img src="https://img.shields.io/badge/-Keras-lightgrey?logo=Keras"/>&nbsp
