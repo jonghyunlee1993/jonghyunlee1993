@@ -1,10 +1,9 @@
 ### Toward Full Stack Data Scientist
 - Data Scientist at [Fitogether](https://www.fitogether.com/, "fitogether link")
 
-<h3 align="center">📘 Technology Stack 📘</h3>
 <p align="center">
   <br>
-  <img src="https://img.shields.io/badge/-PYTHON-3776AB?logo=Python"/>&nbsp
+  <img src="https://img.shields.io/badge/PYTHON?logo=Python"/>&nbsp
   <br>
 </p>
 
