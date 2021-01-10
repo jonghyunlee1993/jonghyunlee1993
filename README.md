@@ -18,7 +18,7 @@
   <br>
   <img src="https://img.shields.io/badge/-Git-092e20?logo=Git&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-Docker-092e20?logo=Docker&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/-GCP-092e20?logo=googlecloud&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-GCP-092e20?logo=google-cloud&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-Octave-092e20?logo=Octave&logoColor=white"/>&nbsp
   <br>
   <br>
