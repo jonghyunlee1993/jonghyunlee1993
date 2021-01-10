@@ -5,23 +5,27 @@
   <br>
   <img src="https://img.shields.io/badge/-PYTHON-lightgrey?logo=Python"/>&nbsp
   <img src="https://img.shields.io/badge/-R Project-lightgrey?logo=R"/>&nbsp
-  <img src="https://img.shields.io/badge/-csharp-lightgrey?logo=csharp"/>&nbsp
+  <img src="https://img.shields.io/badge/-csharp-lightgrey?logo=c-sharp"/>&nbsp
+  <br>
   <br>
   <img src="https://img.shields.io/badge/-TensorFlow-lightgrey?logo=TensorFlow"/>&nbsp
   <img src="https://img.shields.io/badge/-Keras-lightgrey?logo=Keras"/>&nbsp
   <img src="https://img.shields.io/badge/-PyTorch-lightgrey?logo=PyTorch"/>&nbsp
   <img src="https://img.shields.io/badge/-pandas-lightgrey?logo=Pandas"/>&nbsp
   <img src="https://img.shields.io/badge/-NumPy-lightgrey?logo=Numpy"/>&nbsp
-  <img src="https://img.shields.io/badge/-scikit-learn-lightgrey?logo=scikit-learn"/>&nbsp
+  <img src="https://img.shields.io/badge/-scikit_learn-lightgrey?logo=scikit-learn"/>&nbsp
+  <br>
   <br>
   <img src="https://img.shields.io/badge/-Git-lightgrey?logo=Git"/>&nbsp
   <img src="https://img.shields.io/badge/-Docker-lightgrey?logo=Docker"/>&nbsp
   <img src="https://img.shields.io/badge/-GCP-lightgrey?logo=googlecloud"/>&nbsp
   <img src="https://img.shields.io/badge/-Octave-lightgrey?logo=Octave"/>&nbsp
   <br>
+  <br>
   <img src="https://img.shields.io/badge/-jupyter-lightgrey?logo=Jupyter"/>&nbsp
   <img src="https://img.shields.io/badge/-PyCharm-lightgrey?logo=PyCharm"/>&nbsp
-  <img src="https://img.shields.io/badge/-VS Code-lightgrey?logo=visualstudiocode"/>&nbsp
+  <img src="https://img.shields.io/badge/-VS Code-lightgrey?logo=visual-studio-code"/>&nbsp
+  <br>
   <br>
   <img src="https://img.shields.io/badge/-Windows-lightgrey?logo=Windows"/>&nbsp
   <img src="https://img.shields.io/badge/-MacOS-lightgrey?logo=Apple"/>&nbsp
