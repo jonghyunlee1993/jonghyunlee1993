@@ -3,29 +3,29 @@
 
 <p align="center">
   <br>
-  <img src="https://img.shields.io/badge/-PYTHON-ffffff?logo=Python"/>&nbsp
-  <img src="https://img.shields.io/badge/-R-ffffff?logo=R project"/>&nbsp
-  <img src="https://img.shields.io/badge/-CSharp-ffffff?logo=C\#"/>&nbsp
+  <img src="https://img.shields.io/badge/-PYTHON-lightgrey?logo=Python"/>&nbsp
+  <img src="https://img.shields.io/badge/-r-lightgrey?logo=R project"/>&nbsp
+  <img src="https://img.shields.io/badge/-CSharp-lightgrey?logo=C\#"/>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/-TensorFlow-ffffff?logo=TensorFlow"/>&nbsp
-  <img src="https://img.shields.io/badge/-Keras-ffffff?logo=Keras"/>&nbsp
-  <img src="https://img.shields.io/badge/-PyTorch-ffffff?logo=PyTorch"/>&nbsp
-  <img src="https://img.shields.io/badge/-pandas-ffffff?logo=Pandas"/>&nbsp
-  <img src="https://img.shields.io/badge/-NumPy-ffffff?logo=Numpy"/>&nbsp
-  <img src="https://img.shields.io/badge/-scikit-learn-ffffff?logo=SK-learn"/>&nbsp
+  <img src="https://img.shields.io/badge/-TensorFlow-lightgrey?logo=TensorFlow"/>&nbsp
+  <img src="https://img.shields.io/badge/-Keras-lightgrey?logo=Keras"/>&nbsp
+  <img src="https://img.shields.io/badge/-PyTorch-lightgrey?logo=PyTorch"/>&nbsp
+  <img src="https://img.shields.io/badge/-pandas-lightgrey?logo=Pandas"/>&nbsp
+  <img src="https://img.shields.io/badge/-NumPy-lightgrey?logo=Numpy"/>&nbsp
+  <img src="https://img.shields.io/badge/-scikit-learn-lightgrey?logo=SK-learn"/>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/-git-ffffff?logo=Git"/>&nbsp
-  <img src="https://img.shields.io/badge/-Docker-ffffff?logo=Docker"/>&nbsp
-  <img src="https://img.shields.io/badge/-GoogleCloud-ffffff?logo=GCP"/>&nbsp
-  <img src="https://img.shields.io/badge/-Octave-ffffff?logo=Octave"/>&nbsp
+  <img src="https://img.shields.io/badge/-git-lightgrey?logo=Git"/>&nbsp
+  <img src="https://img.shields.io/badge/-Docker-lightgrey?logo=Docker"/>&nbsp
+  <img src="https://img.shields.io/badge/-GoogleCloud-lightgrey?logo=GCP"/>&nbsp
+  <img src="https://img.shields.io/badge/-Octave-lightgrey?logo=Octave"/>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/-jupyter-ffffff?logo=Jupyter"/>&nbsp
-  <img src="https://img.shields.io/badge/-PyCharm-ffffff?logo=PyCharm"/>&nbsp
-  <img src="https://img.shields.io/badge/-VisualStudioCode-ffffff?logo=VS Code"/>&nbsp
+  <img src="https://img.shields.io/badge/-jupyter-lightgrey?logo=Jupyter"/>&nbsp
+  <img src="https://img.shields.io/badge/-PyCharm-lightgrey?logo=PyCharm"/>&nbsp
+  <img src="https://img.shields.io/badge/-VisualStudioCode-lightgrey?logo=VS Code"/>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/-Windows-ffffff?logo=Windows"/>&nbsp
-  <img src="https://img.shields.io/badge/-Apple-ffffff?logo=MacOS"/>&nbsp
-  <img src="https://img.shields.io/badge/-Ubuntu-ffffff?logo=Ubuntu"/>&nbsp
+  <img src="https://img.shields.io/badge/-Windows-lightgrey?logo=Windows"/>&nbsp
+  <img src="https://img.shields.io/badge/-Apple-lightgrey?logo=MacOS"/>&nbsp
+  <img src="https://img.shields.io/badge/-Ubuntu-lightgrey?logo=Ubuntu"/>&nbsp
 </p>
 
 [MY DataScience Roadmap!](https://mm.tt/1738940841?t=KLCxSbktun)
