@@ -4,7 +4,7 @@
 <p align="center">
   <br>
   <img src="https://img.shields.io/badge/-PYTHON-lightgrey?logo=Python"/>&nbsp
-  <img src="https://img.shields.io/badge/-r-lightgrey?logo=R project"/>&nbsp
+  <img src="https://img.shields.io/badge/-R-lightgrey?logo=R project"/>&nbsp
   <img src="https://img.shields.io/badge/-CSharp-lightgrey?logo=C\#"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-TensorFlow-lightgrey?logo=TensorFlow"/>&nbsp
@@ -16,7 +16,7 @@
   <br>
   <img src="https://img.shields.io/badge/-git-lightgrey?logo=Git"/>&nbsp
   <img src="https://img.shields.io/badge/-Docker-lightgrey?logo=Docker"/>&nbsp
-  <img src="https://img.shields.io/badge/-GoogleCloud-lightgrey?logo=GCP"/>&nbsp
+  <img src="https://img.shields.io/badge/-googlecloud-lightgrey?logo=GCP"/>&nbsp
   <img src="https://img.shields.io/badge/-Octave-lightgrey?logo=Octave"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-jupyter-lightgrey?logo=Jupyter"/>&nbsp
