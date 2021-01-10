@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/-pandas-092e20?logo=Pandas&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-NumPy-092e20?logo=Numpy&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-scikit_learn-092e20?logo=scikit-learn&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-OpenCV-092e20?"/>&nbsp
   <br>
   <br>
   <img src="https://img.shields.io/badge/-Git-092e20?logo=Git&logoColor=white"/>&nbsp
