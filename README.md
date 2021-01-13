@@ -5,6 +5,7 @@
   <br>
   <img src="https://img.shields.io/badge/-PYTHON-092e20?logo=Python&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-R Project-092e20?logo=R&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-SAS-092e20?"/>&nbsp
   <img src="https://img.shields.io/badge/-csharp-092e20?logo=c-sharp&logoColor=white"/>&nbsp
   <br>
   <br>
@@ -15,6 +16,7 @@
   <img src="https://img.shields.io/badge/-NumPy-092e20?logo=Numpy&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-scikit_learn-092e20?logo=scikit-learn&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-OpenCV-092e20?"/>&nbsp
+  <img src="https://img.shields.io/badge/-Dask-092e20?"/>&nbsp
   <br>
   <br>
   <img src="https://img.shields.io/badge/-Git-092e20?logo=Git&logoColor=white"/>&nbsp
@@ -22,6 +24,7 @@
   <img src="https://img.shields.io/badge/-GCP-092e20?logo=google-cloud&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-MySQL-092e20?logo=mysql&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-Octave-092e20?logo=Octave&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-Tableau-092e20?logo=Tableau&logoColor=white"/>&nbsp
   <br>
   <br>
   <img src="https://img.shields.io/badge/-jupyter-092e20?logo=Jupyter&logoColor=white"/>&nbsp
