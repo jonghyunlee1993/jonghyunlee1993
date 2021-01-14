@@ -16,7 +16,9 @@
   <img src="https://img.shields.io/badge/-NumPy-092e20?logo=Numpy&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-scikit_learn-092e20?logo=scikit-learn&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-OpenCV-092e20?"/>&nbsp
+  <!--
   <img src="https://img.shields.io/badge/-Dask-092e20?"/>&nbsp
+  -->
   <br>
   <br>
   <img src="https://img.shields.io/badge/-Git-092e20?logo=Git&logoColor=white"/>&nbsp
@@ -27,11 +29,13 @@
   <img src="https://img.shields.io/badge/-Tableau-092e20?logo=Tableau&logoColor=white"/>&nbsp
   <br>
   <br>
+  <!--
   <img src="https://img.shields.io/badge/-jupyter-092e20?logo=Jupyter&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-PyCharm-092e20?logo=PyCharm&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-VS Code-092e20?logo=visual-studio-code&logoColor=white"/>&nbsp
   <br>
   <br>
+  -->
   <img src="https://img.shields.io/badge/-Windows-092e20?logo=Windows&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-MacOS-092e20?logo=Apple&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-Ubuntu-092e20?logo=Ubuntu&logoColor=white"/>&nbsp
