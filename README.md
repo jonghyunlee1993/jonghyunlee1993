@@ -6,7 +6,9 @@
   <img src="https://img.shields.io/badge/-PYTHON-092e20?logo=Python&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-R Project-092e20?logo=R&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-SAS-092e20?"/>&nbsp
+  <!--
   <img src="https://img.shields.io/badge/-csharp-092e20?logo=c-sharp&logoColor=white"/>&nbsp
+  -->
   <br>
   <br>
   <img src="https://img.shields.io/badge/-TensorFlow-092e20?logo=TensorFlow&logoColor=white"/>&nbsp
