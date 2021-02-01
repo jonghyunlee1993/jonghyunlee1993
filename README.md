@@ -10,7 +10,7 @@
 #### Dev Tools
 <img src="https://img.shields.io/badge/-Git-092e20?logo=Git&logoColor=white"/>  <img src="https://img.shields.io/badge/-Docker-092e20?logo=Docker&logoColor=white"/>  <img src="https://img.shields.io/badge/-GCP-092e20?logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/-MySQL-092e20?logo=mysql&logoColor=white"/>  <img src="https://img.shields.io/badge/-Octave-092e20?logo=Octave&logoColor=white"/>  <img src="https://img.shields.io/badge/-Tableau-092e20?logo=Tableau&logoColor=white"/>
 #### OS
-<img src="https://img.shields.io/badge/-Windows-092e20?logo=Windows&logoColor=white"/>  <img src="https://img.shields.io/badge/-MacOS-092e20?logo=Apple&logoColor=white"/>  <img src="https://img.shields.io/badge/-Ubuntu-092e20?logo=Ubuntu&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/-Windows-092e20?logo=Windows&logoColor=white"/>  <img src="https://img.shields.io/badge/-MacOS-092e20?logo=Apple&logoColor=white"/>  <img src="https://img.shields.io/badge/-Ubuntu-092e20?logo=Ubuntu&logoColor=white"/>
 
 <!--
 <p align="left">
@@ -44,5 +44,5 @@
 </p>
 -->
 
-[My DataScience Roadmap!](https://mm.tt/1738940841?t=KLCxSbktun)
+[Visit My DataScience Roadmap!](https://mm.tt/1738940841?t=KLCxSbktun)
 ![image](https://user-images.githubusercontent.com/37280722/103731006-7dd52780-5027-11eb-8bde-98da39ff0235.png)
