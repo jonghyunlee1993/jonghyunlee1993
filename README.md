@@ -2,9 +2,7 @@
 - Data Scientist at [Fitogether](https://www.fitogether.com/, "fitogether link")
 
 #### Lang
-<img src="https://img.shields.io/badge/-Python-092e20?logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-R Project-092e20?logo=R&logoColor=white"/>
-<img src="https://img.shields.io/badge/-SAS-092e20?"/>
+<img src="https://img.shields.io/badge/-Python-092e20?logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/-R Project-092e20?logo=R&logoColor=white"/>  <img src="https://img.shields.io/badge/-SAS-092e20?"/>
 
 #### Lib
 
