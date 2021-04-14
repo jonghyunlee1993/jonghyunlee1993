@@ -1,5 +1,6 @@
 ### Toward Full Stack Data Scientist
 - Data Scientist at [Fitogether](https://www.fitogether.com/, "fitogether link")
+- Ph.D Student at Univ.Hanyang; Major: AI and Medical
 
 #### Lang
 <img src="https://img.shields.io/badge/-Python-092e20?logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/-R Project-092e20?logo=R&logoColor=white"/>  <img src="https://img.shields.io/badge/-SAS-092e20?"/>
