@@ -1,5 +1,4 @@
 ### Toward Full Stack Data Scientist
-- Data Scientist at [Fitogether](https://www.fitogether.com/, "fitogether link")
 - Ph.D Student at Univ.Hanyang; Major: AI and Medical
 
 #### Lang
